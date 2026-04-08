@@ -45,16 +45,22 @@ Atualmente expandindo conhecimentos em Back-End para atuar de forma completa com
 ## 🚀 Projetos em destaque
 
 - 💳 **Simulador de Conta Bancária (Java)**  
-  Aplicação via terminal para criação e gerenciamento básico de contas, com foco em lógica, entrada de dados e estrutura de código.
+  🔗 https://github.com/Souza-Ingrid/Simulador-banco-java  
+  Aplicação via terminal para criação e gerenciamento de contas, com foco em lógica e estrutura.
 
-- 📊 **Dashboard de Hábitos Pessoais (Python)** *(em desenvolvimento)*  
-  Sistema para registrar hábitos diários e visualizar progresso com gráficos.
+- 📊 **Rastreador de Hábitos (Python)**  
+  🔗 https://github.com/Souza-Ingrid/rastreador-de-habitos  
+  Sistema para registrar hábitos e acompanhar evolução.
 
-- 🌐 **Projetos Web Front-End**  
-  Interfaces modernas com foco em experiência do usuário, responsividade e boas práticas.
+- 🌐 **Clone do Discord (Front-End)**  
+  🔗 https://github.com/Souza-Ingrid/Discord-Clone-DIO  
+  Interface inspirada no Discord com foco em responsividade e UI.
 
-➡️ Em constante evolução com novos projetos práticos  
+- 🎥 **Clone do YouTube (Front-End)**  
+  🔗 https://github.com/Souza-Ingrid/Youtube-Clone-DIO  
+  Projeto focado em layout moderno e experiência do usuário.
 
+➡️ Em constante evolução com novos projetos práticos
 ---
 
 ## 🛠️ Tecnologias
