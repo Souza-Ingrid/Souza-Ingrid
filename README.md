@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ingrid Souza  
 
-🚀 **Desenvolvedora Full Stack em Formação | Foco em Front-End**  
+🚀 **Desenvolvedora Full Stack em Formação | Foco em Back-End**  
 🇧🇷 Recife, Brasil  
 
 Desenvolvedora focada em Front-End, construindo aplicações web com código limpo, estrutura bem definida e atenção à experiência do usuário.  
@@ -10,7 +10,9 @@ Em constante aprendizado e evolução para atuar de forma cada vez mais completa
 
 ## 🌐 Onde me encontrar
 
-
+  <a href="https://www.instagram.com/souz4_ingrid/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ingrid-souza-8b3568212/">
     <img src="https://img.shields.io/badge/LinkedIn-Ingrid%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
