@@ -49,7 +49,7 @@ Atualmente expandindo conhecimentos em Back-End para atuar de forma completa com
   Aplicação via terminal para criação e gerenciamento de contas, com foco em lógica e estrutura.
 
 - 📊 **Rastreador de Hábitos (Python)**  
-  🔗 https://github.com/Souza-Ingrid/rastreador-de-habitos  
+  🔗 https://github.com/Souza-Ingrid/habit-tracker 
   Sistema para registrar hábitos e acompanhar evolução.
 
 - 🌐 **Clone do Discord (Front-End)**  
