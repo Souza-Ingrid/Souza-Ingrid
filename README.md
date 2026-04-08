@@ -1,25 +1,24 @@
 # Hi 👋, I'm Ingrid Souza  
 
-🚀 **Desenvolvedora Full Stack em Formação | Foco em Back-End**  
-🇧🇷 Recife, Brasil  
+🚀 **Desenvolvedora Full Stack em Formação | Base sólida em Front-End e evolução em Back-End**  
+🇧🇷 Recife-PE  
 
-Desenvolvedora focada em Front-End, construindo aplicações web com código limpo, estrutura bem definida e atenção à experiência do usuário.  
-Em constante aprendizado e evolução para atuar de forma cada vez mais completa como Full Stack.
+Desenvolvedora com base sólida em Front-End, construindo aplicações web com código limpo, estrutura bem definida e atenção à experiência do usuário.  
+Atualmente expandindo conhecimentos em Back-End para atuar de forma completa como Full Stack.
 
 ---
 
 ## 🌐 Onde me encontrar
 
-  <a href="https://www.instagram.com/souz4_ingrid/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ingrid-souza-8b3568212/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ingrid%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ingridysolsousa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ingridysolsousa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.instagram.com/souz4_ingrid/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ingrid-souza-8b3568212/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ingrid%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ingridysolsousa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ingridysolsousa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
@@ -31,6 +30,30 @@ Em constante aprendizado e evolução para atuar de forma cada vez mais completa
 - ⚡ Atenção à performance e estrutura  
 - 🔄 Evoluindo para soluções Full Stack  
 - 📚 Construção de projetos reais e aprendizado contínuo  
+
+---
+
+## 🧪 Atualmente estudando
+
+- ☕ Java com foco em aplicações reais  
+- 🔗 Integração de APIs com Postman  
+- 🤖 Programação de robôs com Choregraphe (NAO)  
+- 🗄️ Banco de dados com PostgreSQL  
+
+---
+
+## 🚀 Projetos em destaque
+
+- 💳 **Simulador de Conta Bancária (Java)**  
+  Aplicação via terminal para criação e gerenciamento básico de contas, com foco em lógica, entrada de dados e estrutura de código.
+
+- 📊 **Dashboard de Hábitos Pessoais (Python)** *(em desenvolvimento)*  
+  Sistema para registrar hábitos diários e visualizar progresso com gráficos.
+
+- 🌐 **Projetos Web Front-End**  
+  Interfaces modernas com foco em experiência do usuário, responsividade e boas práticas.
+
+➡️ Em constante evolução com novos projetos práticos  
 
 ---
 
@@ -53,18 +76,24 @@ Em constante aprendizado e evolução para atuar de forma cada vez mais completa
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Choregraphe](https://img.shields.io/badge/Choregraphe-0096FF?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left"> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Souz4Ingrid&theme=tokyonight&hide_border=true" /> </p>
+<p align="left">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Souz4Ingrid&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -76,5 +105,3 @@ priorizando experiência do usuário, performance e escalabilidade.
 
 Busco oportunidades como Desenvolvedora Front-End ou Full Stack Júnior,  
 contribuindo com dedicação, evolução constante e construção de soluções de valor.
-
----
