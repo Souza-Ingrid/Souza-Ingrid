@@ -103,5 +103,5 @@ Acredito que tecnologia deve resolver problemas reais.
 Meu foco é escrever código limpo, organizado e sustentável,  
 priorizando experiência do usuário, performance e escalabilidade.  
 
-Busco oportunidades como Desenvolvedora Front-End ou Full Stack Júnior,  
+Busco oportunidades como Desenvolvedora Full Stack Júnior,  
 contribuindo com dedicação, evolução constante e construção de soluções de valor.
