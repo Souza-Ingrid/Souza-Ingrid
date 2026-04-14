@@ -42,23 +42,24 @@ Atualmente expandindo conhecimentos em Back-End para atuar de forma completa com
 
 ---
 
-## 🚀 Projetos em destaque
+🚀 Projetos em destaque
 
-- 💳 **Simulador de Conta Bancária (Java)**  
-  🔗 https://github.com/Souza-Ingrid/Simulador-banco-java  
-  Aplicação via terminal para criação e gerenciamento de contas, com foco em lógica e estrutura.
+📚 UniTroca – Plataforma de Troca Acadêmica
+🔗 https://unitroca.vercel.app
+Plataforma web completa para troca e doação de materiais acadêmicos, com cadastro de itens, busca, filtros e integração com Firebase para persistência de dados. Deploy em produção com Vercel.
 
-- 📊 **Rastreador de Hábitos (Python)**  
-  🔗 https://github.com/Souza-Ingrid/habit-tracker 
-  Sistema para registrar hábitos e acompanhar evolução.
+💳 Simulador de Conta Bancária (Java)
+🔗 https://github.com/Souza-Ingrid/Simulador-banco-java
+Aplicação via terminal para criação e gerenciamento de contas, com foco em lógica, orientação a objetos e estrutura de dados.
 
-- 🌐 **Clone do Discord (Front-End)**  
-  🔗 https://github.com/Souza-Ingrid/Discord-Clone-DIO  
-  Interface inspirada no Discord com foco em responsividade e UI.
+📊 Rastreador de Hábitos (Python)
+🔗 https://github.com/Souza-Ingrid/habit-tracker
+Sistema para registro de hábitos e acompanhamento de evolução, com manipulação de dados e lógica de programação.
 
-- 🎥 **Clone do YouTube (Front-End)**  
-  🔗 https://github.com/Souza-Ingrid/Youtube-Clone-DIO  
-  Projeto focado em layout moderno e experiência do usuário.
+🌐 Clone do Discord (Front-End)
+🔗 https://github.com/Souza-Ingrid/Discord-Clone-DIO
+Interface inspirada no Discord com foco em responsividade e construção de layouts modernos.
+
 
 ➡️ Em constante evolução com novos projetos práticos
 ---
