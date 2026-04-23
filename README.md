@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ingrid Souza  
 
-🚀 **Desenvolvedora Full Stack em Formação | Base sólida em Front-End e evolução em Back-End** 
+🚀 **Desenvolvedora Full Stack em Formação | Base sólida em Front-End e evolução em Back-End**
 🇧🇷 Recife-PE  
 
 Desenvolvedora com base sólida em Front-End, construindo aplicações web com código limpo, estrutura bem definida e atenção à experiência do usuário. 
