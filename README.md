@@ -44,22 +44,25 @@ Atualmente expandindo conhecimentos em Back-End para atuar de forma completa com
 
 🚀 Projetos em destaque
 
+🩺 GliCare – Sistema de Acompanhamento para Diabetes
+🔗 https://gli-care.vercel.app/
+Aplicação web desenvolvida para auxiliar no acompanhamento da rotina de pessoas com diabetes tipo 1 e 2, reunindo registros de glicemia, aplicações de insulina, medicamentos, lembretes e histórico em uma interface moderna e responsiva. Projeto desenvolvido com HTML, CSS e JavaScript, com foco em usabilidade, organização de informações e experiência do usuário.
+
 📚 UniTroca – Plataforma de Troca Acadêmica
 🔗 https://unitroca.vercel.app
-Plataforma web completa para troca e doação de materiais acadêmicos, com cadastro de itens, busca, filtros e integração com Firebase para persistência de dados. Deploy em produção com Vercel.
+Plataforma web para troca e doação de materiais acadêmicos entre estudantes. Possui cadastro de itens, sistema de busca, filtros e integração com Firebase para persistência de dados.
 
 💳 Simulador de Conta Bancária (Java)
 🔗 https://github.com/Souza-Ingrid/Simulador-banco-java
-Aplicação via terminal para criação e gerenciamento de contas, com foco em lógica, orientação a objetos e estrutura de dados.
+Aplicação desenvolvida em Java para simulação de operações bancárias via terminal, utilizando conceitos de orientação a objetos, encapsulamento e lógica de programação.
 
 📊 Rastreador de Hábitos (Python)
 🔗 https://github.com/Souza-Ingrid/habit-tracker
-Sistema para registro de hábitos e acompanhamento de evolução, com manipulação de dados e lógica de programação.
+Sistema para registro e acompanhamento de hábitos diários, permitindo monitorar evolução e consistência ao longo do tempo por meio da manipulação e organização de dados.
 
 🌐 Clone do Discord (Front-End)
 🔗 https://github.com/Souza-Ingrid/Discord-Clone-DIO
-Interface inspirada no Discord com foco em responsividade e construção de layouts modernos.
-
+Projeto focado na recriação da interface do Discord utilizando HTML e CSS, com ênfase em responsividade, estruturação semântica e construção de layouts modernos.
 
 ➡️ Em constante evolução com novos projetos práticos
 ---
