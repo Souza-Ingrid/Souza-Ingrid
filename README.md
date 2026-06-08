@@ -45,7 +45,7 @@ Atualmente expandindo conhecimentos em Back-End para atuar de forma completa com
 🚀 Projetos em destaque
 
 🩺 GliCare – Sistema de Acompanhamento para Diabetes
-🔗 https://gli-care.vercel.app/
+🔗 https://gli-care.vercel.app/ 
 Aplicação web desenvolvida para auxiliar no acompanhamento da rotina de pessoas com diabetes tipo 1 e 2, reunindo registros de glicemia, aplicações de insulina, medicamentos, lembretes e histórico em uma interface moderna e responsiva. Projeto desenvolvido com HTML, CSS e JavaScript, com foco em usabilidade, organização de informações e experiência do usuário.
 
 📚 UniTroca – Plataforma de Troca Acadêmica
