@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ingrid Souza 
+# Hi 👋, I'm Ingrid Souza  
   
 🚀 **Desenvolvedora Full Stack em Formação | Base sólida em Front-End e evolução em Back-End**   
 🇧🇷 Recife-PE
