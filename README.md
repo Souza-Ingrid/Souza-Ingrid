@@ -1,117 +1,205 @@
-# Hi 👋, I'm Ingrid Souza 
-  
-🚀 **Desenvolvedora Full Stack em Formação | Base sólida em Front-End e evolução em Back-End**   
-🇧🇷 Recife-PE
+# Hi 👋, I'm Ingrid Souza
 
-Desenvolvedora com base sólida em Front-End, construindo aplicações web com código limpo, estrutura bem definida e atenção à experiência do usuário. 
-Atualmente expandindo conhecimentos em Back-End para atuar de forma completa como Full Stack.
+<h3 align="center">
+💻 Full Stack Developer em Formação | Java • Spring Boot • JavaScript • React
+</h3>
 
----
+<p align="center">
+Sou desenvolvedora Full Stack em formação, apaixonada por tecnologia e pela criação de soluções que resolvem problemas reais.
 
-## 🌐 Onde me encontrar
+Tenho experiência no desenvolvimento de aplicações web com foco em interfaces modernas, responsivas e intuitivas, enquanto amplio meus conhecimentos em Back-End utilizando Java, Spring Boot, APIs REST e bancos de dados relacionais.
 
-<a href="https://www.instagram.com/souz4_ingrid/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ingrid-souza-8b3568212/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ingrid%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ingridysolsousa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ingridysolsousa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Meu objetivo é construir aplicações completas, escaláveis e bem estruturadas, sempre aplicando boas práticas de desenvolvimento e buscando evolução constante.
+</p>
 
 ---
 
-## 🧠 O que eu faço
+# 🌎 Onde me encontrar
 
-- 🌐 Desenvolvimento de aplicações web modernas  
-- 🎨 Foco em Front-End e experiência do usuário  
-- 🧩 Organização de código e boas práticas  
-- ⚡ Atenção à performance e estrutura  
-- 🔄 Evoluindo para soluções Full Stack  
-- 📚 Construção de projetos reais e aprendizado contínuo  
+📍 Recife - Pernambuco - Brasil
 
----
+💼 LinkedIn: https://www.linkedin.com/in/ingrid-souza-8b3568212/
 
-## 🧪 Atualmente estudando
+📧 Email: ingridysolsousa@gmail.com
 
-- ☕ Java com foco em aplicações reais  
-- 🔗 Integração de APIs com Postman  
-- 🤖 Programação de robôs com Choregraphe (NAO)  
-- 🗄️ Banco de dados com PostgreSQL  
+💻 GitHub: https://github.com/Souza-Ingrid
 
 ---
 
-🚀 Projetos em destaque
+# 🚀 Projetos em destaque
 
-🩺 GliCare – Sistema de Acompanhamento para Diabetes
-🔗 https://gli-care.vercel.app/ 
-Aplicação web desenvolvida para auxiliar no acompanhamento da rotina de pessoas com diabetes tipo 1 e 2, reunindo registros de glicemia, aplicações de insulina, medicamentos, lembretes e histórico em uma interface moderna e responsiva. Projeto desenvolvido com HTML, CSS e JavaScript, com foco em usabilidade, organização de informações e experiência do usuário.
+## 🩺 GliCare — Sistema de Acompanhamento para Diabetes
 
-📚 UniTroca – Plataforma de Troca Acadêmica
-🔗 https://unitroca.vercel.app
-Plataforma web para troca e doação de materiais acadêmicos entre estudantes. Possui cadastro de itens, sistema de busca, filtros e integração com Firebase para persistência de dados.
+🌐 **Aplicação**
+https://gli-care.vercel.app/
 
-💳 Simulador de Conta Bancária (Java)
-🔗 https://github.com/Souza-Ingrid/Simulador-banco-java
-Aplicação desenvolvida em Java para simulação de operações bancárias via terminal, utilizando conceitos de orientação a objetos, encapsulamento e lógica de programação.
+📂 **Repositório**
+https://github.com/Souza-Ingrid/GliCare
 
-📊 Rastreador de Hábitos (Python)
-🔗 https://github.com/Souza-Ingrid/habit-tracker
-Sistema para registro e acompanhamento de hábitos diários, permitindo monitorar evolução e consistência ao longo do tempo por meio da manipulação e organização de dados.
+Sistema Full Stack desenvolvido para auxiliar pessoas com diabetes no acompanhamento diário da saúde.
 
-🌐 Clone do Discord (Front-End)
-🔗 https://github.com/Souza-Ingrid/Discord-Clone-DIO
-Projeto focado na recriação da interface do Discord utilizando HTML e CSS, com ênfase em responsividade, estruturação semântica e construção de layouts modernos.
+### Funcionalidades
 
-➡️ Em constante evolução com novos projetos práticos
+- 🩸 Registro de glicemia
+- 💉 Registro de aplicações de insulina
+- 💊 Cadastro de medicamentos
+- 🔔 Gerenciamento de lembretes
+- 📊 Dashboard com indicadores
+- 📈 Histórico completo de registros
+- 🔗 Integração entre Front-End e Back-End utilizando API REST
+
+**Tecnologias**
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Spring Boot
+- MySQL
+- Swagger
+- Git
+- GitHub
+- Vercel
+
 ---
 
-## 🛠️ Tecnologias
+## 📚 UniTroca — Plataforma de Troca Acadêmica
+
+🌐 https://unitroca.vercel.app
+
+Plataforma para troca e doação de materiais acadêmicos entre estudantes.
+
+### Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Firebase
+
+---
+
+## 💳 Simulador de Conta Bancária
+
+https://github.com/Souza-Ingrid/Simulador-banco-java
+
+Aplicação Java desenvolvida para simular operações bancárias utilizando Programação Orientada a Objetos.
+
+### Tecnologias
+
+- Java
+- Orientação a Objetos
+
+---
+
+## 📊 Habit Tracker
+
+https://github.com/Souza-Ingrid/habit-tracker
+
+Sistema desenvolvido em Python para acompanhamento de hábitos diários.
+
+### Tecnologias
+
+- Python
+
+---
+
+## 🎨 Discord Clone
+
+https://github.com/Souza-Ingrid/Discord-Clone-DIO
+
+Recriação da interface do Discord com foco em HTML, CSS e responsividade.
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java
+- 🌱 Spring Boot
+- ⚛️ React
+- 🗄️ PostgreSQL
+- 🐳 Docker
+- ☁️ AWS
+- 🔗 APIs REST
+- 🤖 Programação de Robôs (NAO)
+
+---
+
+# 🛠️ Tecnologias
 
 ### 💻 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧠 Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+</p>
 
 ### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Choregraphe](https://img.shields.io/badge/Choregraphe-0096FF?style=for-the-badge&logo=robotframework&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Souz4Ingrid&theme=tokyonight&hide_border=true" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel" />
 </p>
- 
+
 ---
 
-## 🚀 Filosofia
+# 📈 Estatísticas do GitHub
 
-Acredito que tecnologia deve resolver problemas reais.  
-Meu foco é escrever código limpo, organizado e sustentável,  
-priorizando experiência do usuário, performance e escalabilidade.  
+<p align="center">
 
-Busco oportunidades como Desenvolvedora Full Stack Júnior,  
-contribuindo com dedicação, evolução constante e construção de soluções de valor.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Souza-Ingrid&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza-Ingrid&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Souza-Ingrid&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souza-Ingrid&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Objetivos
+
+- 🚀 Conquistar minha primeira oportunidade como Desenvolvedora Full Stack Júnior
+- 📚 Evoluir continuamente em Java, Spring Boot e React
+- ☁️ Aprimorar conhecimentos em Cloud Computing (AWS)
+- 🧩 Desenvolver aplicações escaláveis e de qualidade
+- 🤝 Contribuir com projetos e aprender em equipe
+
+---
+
+# 💡 Filosofia
+
+> "A tecnologia tem seu maior valor quando é capaz de resolver problemas reais."
+
+Acredito no desenvolvimento contínuo, na escrita de código limpo e na construção de aplicações que entreguem valor ao usuário.
+
+Busco constantemente aprender novas tecnologias, aplicar boas práticas e evoluir como desenvolvedora Full Stack.
+
+---
+
+<h3 align="center">
+⭐ Obrigada por visitar meu perfil!
+</h3>
