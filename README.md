@@ -104,7 +104,7 @@ Projeto focado na recriação da interface do Discord utilizando HTML e CSS, com
 <p align="left">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Souz4Ingrid&theme=tokyonight&hide_border=true" />
 </p>
-
+ 
 ---
 
 ## 🚀 Filosofia
