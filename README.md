@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ingrid Souza</h1>
-  <h3>💻 Analista de Soluções I | Java • Spring Boot • Backend</h3>
+  <h3>💻 Analista de Soluções I | Java • Spring Boot • Back-end</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/ingrid-souza-8b3568212/" target="_blank">
@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Analista de Soluções I na Capgemini** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FICR, com formação técnica em Informática para Internet - IF Sul de Minas.
+Sou **Analista de Soluções I na Capgemini** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FICR, com formação técnica em Informática para Internet - Instituto Federal do Sul de Minas (IFSULDEMINAS.
 
 Tenho foco em **desenvolvimento Back-End**, com conhecimentos em **Java, Spring Boot, Python, SQL e APIs REST**, além de experiência com tecnologias Front-End como **HTML, CSS, JavaScript e React**.
 
@@ -53,23 +53,21 @@ Utilizo meus projetos para aplicar conhecimentos de programação, bancos de dad
 
 ## 🌟 Projetos em Destaque
 
-🩺 GliCare — Sistema de Acompanhamento para Diabetes
+### 🩺 GliCare — Sistema de Acompanhamento para Diabetes
 
 Sistema Full Stack desenvolvido para auxiliar no acompanhamento diário de pessoas com diabetes.
 
-Principais funcionalidades:
+**Principais funcionalidades:**
+- 🩸 Registro de glicemia
+- 💉 Registro de aplicações de insulina
+- 💊 Cadastro e gerenciamento de medicamentos
+- 🔔 Gerenciamento de lembretes
+- 📊 Dashboard com métricas e histórico
 
-🩸 Registro de glicemia
-💉 Registro de aplicações de insulina
-💊 Cadastro e gerenciamento de medicamentos
-🔔 Gerenciamento de lembretes
-📊 Dashboard com métricas e histórico
+**Tecnologias:**  
+`HTML5` `CSS3` `JavaScript` `Java` `Spring Boot` `MySQL` `Swagger` `Vercel`
 
-Tecnologias:
-
-HTML5 CSS3 JavaScript Java Spring Boot MySQL Swagger Vercel
-
-📚 UniTroca — Plataforma de Troca Acadêmica
+### 📚 UniTroca — Plataforma de Troca Acadêmica
 
 Plataforma Web desenvolvida para facilitar a troca e doação de livros e materiais acadêmicos entre estudantes universitários.
 
@@ -77,7 +75,7 @@ Tecnologias:
 
 HTML5 CSS3 JavaScript Firebase
 
-💳 Simulador de Conta Bancária em Java
+### 💳 Simulador de Conta Bancária em Java
 
 Aplicação desenvolvida para praticar conceitos fundamentais de Programação Orientada a Objetos, utilizando um sistema de operações bancárias.
 
@@ -93,7 +91,7 @@ Tecnologias:
 
 Java POO
 
-📊 Habit Tracker
+### 📊 Habit Tracker
 
 Aplicação desenvolvida em Python para criação, gerenciamento e acompanhamento de hábitos e metas diárias.
 
@@ -101,7 +99,7 @@ Tecnologia:
 
 Python
 
-🎨 Discord Clone
+### 🎨 Discord Clone
 
 Recriação da interface do Discord com foco em estruturação de páginas, estilização e design responsivo.
 
